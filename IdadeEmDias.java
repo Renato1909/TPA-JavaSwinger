@@ -6,7 +6,7 @@ package com.mycompany.idadeemdias;
 import javax.swing.JOptionPane;
 /**
  *
- * @author FATEC ZONA LESTE
+ * @author RENATO SILVA
  */
 public class IdadeEmDias {
 
