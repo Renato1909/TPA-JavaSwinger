@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author FATEC ZONA LESTE
+ * @author RENATO SILVA
  */
 public class ReajusteSalarial {
 
